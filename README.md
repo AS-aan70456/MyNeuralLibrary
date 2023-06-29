@@ -15,7 +15,7 @@ Simple library for working with simple neural networks
 
 This library is based on matrix algorithms, it is the most optimized and popular perceptron algorithm:
 
-* https://habr.com/ru/articles/335052/ - A look at raycasting and a examplar C implementation.
+https://habr.com/ru/articles/335052/ - A look at raycasting and a examplar C implementation.
 
 ---
 
